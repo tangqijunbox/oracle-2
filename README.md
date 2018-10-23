@@ -14,6 +14,12 @@
 数据库：pdborcl
 system密码:123，所有密码都为123
 ```
+## SSH登录
+
+```shell
+$ssh oracle@202.115.82.8
+```
+密码也是123
 
 ## 网址
 - Oracle Database 12c Release 2 下载地址:
