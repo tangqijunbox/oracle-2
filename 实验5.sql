@@ -1,6 +1,6 @@
 create or replace PACKAGE MyPack IS
   /*
-  本实验以实验三为基础。
+  本实验以实验4为基础。
   包MyPack中有：
   一个函数:Get_SaleAmount(V_DEPARTMENT_ID NUMBER)，
   一个过程:Get_Employees(V_EMPLOYEE_ID NUMBER)
