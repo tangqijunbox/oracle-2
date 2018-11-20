@@ -8,7 +8,7 @@
 
 ## 实验检查注意事项
 - 12月4日考试完成后，除了上交试卷之外，还要上交纸质的实验报告。
-- 每个同学应该在你的GitLab主页上，在Oracle资源库中的README.md文件中写上自己的Oracle用户名。
+- 每个同学应该在你的GitHub主页上，在Oracle资源库中的README.md文件中写上自己的Oracle用户名。
 - 有些同学有多个Oracle资源库，比如Oracle-1，Oracle-2等。老师只看Oracle资料库，不看其他名称的资料库
 
 ## 内容说明
